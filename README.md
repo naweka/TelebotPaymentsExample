@@ -40,3 +40,5 @@ qiwi_nick = 'sextest'
 ## Зависимости
 
 - telebot - `pip install pyTelegramBotAPI`
+- requests - `pip install requests`
+- hashlib - `pip install hashlib`
